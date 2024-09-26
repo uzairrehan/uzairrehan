@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uzair Rehan</h1>
+<h1 align="center">Hi 👋, I'm Syed Uzair Rehan</h1>
 <h3 align="center">A passionate Developer and Programmer🌟</h3>
 
 
