@@ -15,7 +15,7 @@
 - Deepening my knowledge of **backend technologies** and **Node.js**.
 
 ### 📫 Let’s Connect:
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairrehan) or check out my latest projects below.  
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairrehan).  
 
 
 # 🌐 Socials:
