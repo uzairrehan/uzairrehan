@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Syed Uzair Rehan</h1>
+# Hi there! 👋 I'm Uzair Rehan
 
+ **frontend developer** and **React enthusiast** currently exploring the world of **backend development** with Node.js.  
+
+### 💻 What I Do:
+- Build responsive web applications with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- Crafting my website in **Next.js**.
+
+### 🌟 Projects:
+- **[BlogVibes](https://blogvibes.vercel.app/):** A blogging platform with features like viewing, commenting, liking, and admin controls for managing content.  
+- **[Expense Tracky](https://expensetracky.vercel.app/):** An expense tracker app featuring Firebase Authentication, Firestore, and data visualization with Rechart.  
+
+### 🚀 Current Learning:
+- **React Native** for mobile app development.
+- Deepening my knowledge of **backend technologies** and **Node.js**.
+
+### 📫 Let’s Connect:
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairrehan) or check out my latest projects below.  
 
 
 # 🌐 Socials:
@@ -15,3 +31,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=uzairrehan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Thanks for stopping by! 😊
