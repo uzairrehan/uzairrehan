@@ -2,17 +2,13 @@
 
  **frontend developer** and **React enthusiast** currently exploring the world of **backend development** with Node.js.  
 
-### 💻 What I Do:
-- Build responsive web applications with **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- Crafting my website in **Next.js**.
-
 ### 🌟 Projects:
 - **[BlogVibes](https://blogvibes.vercel.app/):** A blogging platform with features like viewing, commenting, liking, and admin controls for managing content.  
 - **[Expense Tracky](https://expensetracky.vercel.app/):** An expense tracker app featuring Firebase Authentication, Firestore, and data visualization with Rechart.  
 
 ### 🚀 Current Learning:
-- **React Native** for mobile app development.
-- Deepening my knowledge of **backend technologies** and **Node.js**.
+- **React Native** with **Expo** for mobile app development.
+- Deepening my knowledge of **backend technologies** with **Express.js** and **Node.js**.
 
 ### 📫 Let’s Connect:
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairrehan).  
