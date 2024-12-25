@@ -2,11 +2,11 @@
 
  **frontend developer** and **React enthusiast** currently exploring the world of **backend development** with Node.js.  
 
-### 🌟 Projects:
+# 🌟 Projects:
 - **[Blog-Vibes](https://blogvibes.vercel.app/):** A blogging platform with features like viewing, commenting, liking, and admin controls for managing content.  
 - **[Expense-Tracky](https://expensetracky.vercel.app/):** An expense tracker app featuring Firebase Authentication, Firestore, and data visualization with Rechart.  
 
-### 🚀 Current Learning:
+# 🚀 Current Learning:
 - **React Native** with **Expo** for mobile app development.
 - Deepening my knowledge of **backend technologies** with **Express.js**, **Mongodb** and **Node.js**.
 
@@ -17,8 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairrehan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📫 Let’s Connect:
-Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairrehan)  
+Feel free to reach out via  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairrehan)  
 
-[![](https://visitcount.itsvg.in/api?id=uzairrehan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Thanks for stopping by! 😊
+[![](https://visitcount.itsvg.in/api?id=uzairrehan&icon=0&color=0)](https://visitcount.itsvg.in)
