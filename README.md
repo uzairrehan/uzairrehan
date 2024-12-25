@@ -8,7 +8,7 @@
 
 ### 🚀 Current Learning:
 - **React Native** with **Expo** for mobile app development.
-- Deepening my knowledge of **backend technologies** with **Express.js** and **Node.js**.
+- Deepening my knowledge of **backend technologies** with **Express.js**, **Mongodb** and **Node.js**.
 
 ### 📫 Let’s Connect:
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/uzairrehan).  
