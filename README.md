@@ -3,8 +3,8 @@
  **frontend developer** and **React enthusiast** currently exploring the world of **backend development** with Node.js.  
 
 ### 🌟 Projects:
-- **[Blog Vibes](https://blogvibes.vercel.app/):** A blogging platform with features like viewing, commenting, liking, and admin controls for managing content.  
-- **[Expense Tracky](https://expensetracky.vercel.app/):** An expense tracker app featuring Firebase Authentication, Firestore, and data visualization with Rechart.  
+- **[Blog-Vibes](https://blogvibes.vercel.app/):** A blogging platform with features like viewing, commenting, liking, and admin controls for managing content.  
+- **[Expense-Tracky](https://expensetracky.vercel.app/):** An expense tracker app featuring Firebase Authentication, Firestore, and data visualization with Rechart.  
 
 ### 🚀 Current Learning:
 - **React Native** with **Expo** for mobile app development.
