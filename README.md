@@ -22,3 +22,6 @@ Feel free to reach out via  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%
 
 Thanks for stopping by! 😊
 [![](https://visitcount.itsvg.in/api?id=uzairrehan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
