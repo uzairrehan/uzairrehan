@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Syed Uzair Rehan
+# Hi there! 👋 I'm Uzair
 
  **Full Stack developer** and **React Native enthusiast**.  
 
