@@ -1,4 +1,4 @@
-# HEllO! 👋 I'm Syed Uzair
+# HELLO! 👋 I'm Syed Uzair
 
  **Full Stack (MERN)** and **React Native developer**.  
 
